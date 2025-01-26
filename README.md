@@ -1,4 +1,4 @@
-This repo contains different projects created in C
+This repo contains different projects created in C 
 
 ### 💳🏧 Bank ATM System (`atm.c`) 
 #### Overview
